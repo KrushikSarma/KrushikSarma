@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
 
 <h1 align="center">Hi!,  I'm Krushik Sarma</h1>
 
